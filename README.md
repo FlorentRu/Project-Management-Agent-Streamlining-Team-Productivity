@@ -2,9 +2,8 @@
 
 
 Project Management Agent: Streamlining Team Productivity
-User Intent:
 
-Link: https://colab.research.google.com/drive/1IRuE_dPUGU8FOd0xd3wJJbDFpiWSVxRw#scrollTo=_f28nmjaWVpJ
+User Intent:
 
 Project managers and team members need to execute routine project actions through natural language commands, eliminating manual tool navigation. They seek instant task execution for:
 - Timeline adjustments ("Move API docs deadline to Friday")
