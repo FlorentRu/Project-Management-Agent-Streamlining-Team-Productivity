@@ -13,9 +13,13 @@ Project managers and team members need to execute routine project actions throug
 
 Triggered Actions:
 The AI agent interprets requests and triggers real-time workflows:
+
 1- Schedule Updates: Reshuffles deadlines in MS Project and notifies teams via Slack
+
 2- Task Delegation: Creates Jira tickets with auto-assignment based on workload
+
 3- Risk Mitigation: Logs risks in Jira with severity scoring and alerts leads
+
 4- Reporting: Generates status presentations from project data for stakeholders
 
 Business Task Transformation:
