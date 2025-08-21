@@ -37,7 +37,7 @@ This solution streamlines three critical workflows:
 
 3- Risk Management:
 - Before: Email threads, spreadsheet logging, manual prioritization
-- After: "Flag budget overrun risk", Auto-logged ticket with financial impact analysis
+- After: Flag budget overrun risk, Auto-logged ticket with financial impact analysis
 
 Impact Metrics:
 
