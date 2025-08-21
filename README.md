@@ -32,7 +32,7 @@ This solution streamlines three critical workflows:
 
 2- Status Reporting:
 - Before: 2-hour manual data compilation from 5 tools
-- After: "Generate Q3 progress report”, auto-generated presentation in 8 seconds
+- After: Generate Q3 progress report, auto-generated presentation in 8 seconds
 
 
 3- Risk Management:
